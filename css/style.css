@@ -19,7 +19,7 @@ body {
 }
 .container {
     padding: 20px;
-    margin: 50px auto;
+    margin: 80px auto 10px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -91,12 +91,6 @@ button {
     color: white;
     cursor: pointer;
 }
-
-
-
-
-
-
 
 
 
